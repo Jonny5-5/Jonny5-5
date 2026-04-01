@@ -10,11 +10,5 @@ I'm a mobile app developer passionate about building clean, lightweight, and per
 ## Portfolio
 Explore my full catalog of published mobile applications across both Android and Apple ecosystems:
 
-<a href="https://apps.apple.com/us/developer/jonathan-de-gaston/id1656029142">
-  <img src="https://img.shields.io/badge/App_Store-007AFF?style=for-the-badge&logo=apple&logoColor=white" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://play.google.com/store/apps/dev?id=8230997084127446105">
-  <img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white" />
-</a>
+<a href="https://apps.apple.com/us/developer/jonathan-de-gaston/id1656029142"><img src="https://img.shields.io/badge/App_Store-007AFF?style=for-the-badge&logo=apple&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/dev?id=8230997084127446105"><img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white" /></a>
 
